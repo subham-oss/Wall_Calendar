@@ -60,7 +60,9 @@ npm run dev
 
 ## 📸 Screenshots
 
-*Add your project screenshots here*
+ <p align="center">
+  <img src="./assets/image_one.png" width="600"/>
+</p>
 
 ---
 
