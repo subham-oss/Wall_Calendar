@@ -1,16 +1,90 @@
-# React + Vite
+# 📅 Wall Calendar (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **wall calendar UI** built with React. This project allows users to select date ranges, add notes, and enjoy smooth animated transitions .
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* 📆 Date range selection (start & end date)
+* 📝 Notes with localStorage persistence
+* 🎨 Clean and modern UI (Tailwind CSS)
+* ⚡ Smooth animations using Framer Motion
+* 📱 Fully responsive design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* Tailwind CSS
+* JavaScript (ES6+)
+
+---
+
+## 📂 Project Structure
+
+```
+/src
+ ├── components
+ │    └── WallCalendar.jsx
+ |    └── HeroSection.jsx
+ |    └── Notes.jsx
+ ├── App.jsx
+ └── index.html
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/wall-calendar.git
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Run the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📸 Screenshots
+
+*Add your project screenshots here*
+
+---
+
+## 💡 Future Improvements
+
+* Month navigation (next/previous)
+* Multiple notes per date
+* Drag-to-select date range
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repo and submit a pull request.
+
+---
+
+
+## 👨‍💻 Author
+
+**Subham**
+
+* GitHub: [https://github.com/subham-oss](https://github.com/subham-oss)
+
+---
+
+⭐ If you like this project, give it a star!
