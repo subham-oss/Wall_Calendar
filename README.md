@@ -41,7 +41,7 @@ A modern, responsive **wall calendar UI** built with React. This project allows 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/wall-calendar.git
+git clone https://github.com/subham-oss/Wall_Calendar
 ```
 
 2. Install dependencies:
